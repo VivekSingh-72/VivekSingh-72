@@ -15,7 +15,7 @@ I am a passionate software developer focused on writing clean, efficient code an
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | HTML5, CSS3, JavaScript, Python, C++ |
-| **Tools & Platforms** | Git, GitHub, VS Code, Terminal, KaliLinux |
+| **Tools & Platforms** | Git, GitHub, VS Code, Terminal, KaliLinux, DebianOS, AndriodStudio, VM |
 
 ---
 
