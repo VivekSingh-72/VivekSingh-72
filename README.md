@@ -1,4 +1,4 @@
-# Hi there, I'm [VivekSingh] 👋
+# Hi there, I'm VivekSingh 👋
 
 ### ⚡ A Little About Me
 I am a passionate software developer focused on writing clean, efficient code and building user-friendly applications. I love taking on new programming challenges, exploring nature,different cultures, foreign languages, and turning ideas into functional software.
