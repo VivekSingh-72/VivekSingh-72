@@ -4,7 +4,7 @@
 I am a passionate software developer focused on writing clean, efficient code and building user-friendly applications. I love taking on new programming challenges, exploring nature,different cultures, foreign languages, and turning ideas into functional software.
 
 - 🔭 I’m currently working on building out my web application portfolio.
-- 🌱 I’m currently diving deeper into **C++** and advanced frontend/backend workflows.
+- 🌱 I’m currently diving deeper into **C++**,**Javascript** and advanced frontend/backend workflows.
 - 💬 Ask me about console-based applications, basic web dev, or my language learning journey!
 - 📫 How to reach me: [sanysingh7872@gmail.com] or [https://www.instagram.com/?e=1348020]
 
